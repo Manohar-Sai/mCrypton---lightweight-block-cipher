@@ -3,7 +3,7 @@ CS553 [Term paper](https://github.com/Manohar-Sai/mCrypton---lightweight-block-c
   
 Presentation Video: [Google Drive](https://drive.google.com/file/d/1zfci446CoVTG95WIZlKHPipg5tJF5vOF/view?usp=sharing)
 
-The presentation is named as [Presentation](https://github.com/Manohar-Sai/mCrypton---lightweight-block-cipher/blob/main/Presentation.pdf)
+Presentation pdf: [Presentation](https://github.com/Manohar-Sai/mCrypton---lightweight-block-cipher/blob/main/Presentation.pdf)
 
 Required implementation files are in implementation folder. 
 - first run the keyschedulling.py by giving your own 128 bit userkey(U1) in hex divided in 16 parts.(This code provides 13 round keys and store it in a txt file)
